@@ -1,0 +1,16 @@
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+mariame:
+  message: "Salut les GENS"
+  currentDetails:
+    prenom: "Mariamux"
+    nom: "Boulsanitooooo"
+  date:
+    - 2002
+    - 124
+    - 236236
+server:
+  port: 8080

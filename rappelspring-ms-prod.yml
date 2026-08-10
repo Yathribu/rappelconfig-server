@@ -1,0 +1,16 @@
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+rida:
+  message: "MAMADOU"
+  currentDetails:
+    prenom: "SEGPA"
+    nom: "PPPPPP"
+  date:
+    - 2077
+    - 124125125
+    - 1
+server:
+  port: 8090

@@ -1,0 +1,16 @@
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+mariame:
+  message: "Salut les amis"
+  currentDetails:
+    prenom: "Mariame"
+    nom: "Boulsane"
+  date:
+    - 1999
+    - 16
+    - 02
+server:
+  port: 8080
