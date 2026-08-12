@@ -4,7 +4,7 @@ management:
       exposure:
         include: "*"
 mariame:
-  message: "Salut les GENS"
+  message: "Salut les GOYS"
   currentDetails:
     prenom: "ZIZOU"
     nom: "Boulsanitooooo"
